@@ -185,8 +185,8 @@ Or for the analysis script with plots in pop-up windows:
 python notebook_analysis.py
 ```
 
-### What is in each Streamlit tab
-
+### What is in each Streamlit tab and the deployement link
+_ Link  **https://amedjkouhdarine-7hjhp2vgem5ipspnengkoo.streamlit.app** 
 - **Methodology** — short write-up of CRISP-DM, why i split 80/20, why i scale features, what a Pipeline is and why it prevents leakage, and a sentence on the bias-variance tradeoff.
 - **Overview** — dataset preview, missing-value report, cleaning summary.
 - **EDA** — distribution of `body_mass_g`, scatter plots vs each numeric feature, box plots by category, correlation heatmap.
